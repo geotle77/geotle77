@@ -22,7 +22,7 @@
   - 🚩A good job, and then enjoy my rest of life
 - 📫 How to reach me , my email is franxxx2277@gmail.com🍀
 ## <p style='color:skyblue'><strong>🫢Blogs</strong></p>
-Yes!I have write some blogs about many topics,welcome to read! ![geotle77's blog](https://geotle77.github.io/)
+Yes!I have write some blogs about many topics,welcome to read! [geotle77's blog](https://geotle77.github.io/)
 <!---
 geotle77/geotle77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
